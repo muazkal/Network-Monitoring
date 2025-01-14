@@ -32,7 +32,7 @@ This project dives into network monitoring by looking at the communication betwe
   <li>After completing the basic settings, you can skip the other settings and create the virtual machines.</li>
   <li>Most importantly, make sure that they are in the same virtual network.</li>
 </ul>
-<img src="https://drive.google.com/file/d/1DgY921ft7KvL1TGXjcgtQiyPvN6yBY6T/preview" width="640" height="480">
+<img src="Screenshot 2025-01-14 094831.png" width="640" height="480">
 
 <h3>Make The Second Virtual Machine: Linux Ubuntu</h3>
 <img src="">
