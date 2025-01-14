@@ -24,7 +24,7 @@ This project dives into network monitoring by looking at the communication betwe
 
 <h3>Create a Resource Group</h3>
 <p>When creating the resource group, pay close attention to the location you are selecting. This will come in hand in the next step because you will want to have eveything in the same location. In this lab, I chose "East US."</p>
-<img src="">>
+<img src="">
 
 <h3>Make The First Virtual Machine: Windows 10 Pro</h3>
 <ul>
