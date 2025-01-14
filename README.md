@@ -34,7 +34,7 @@ This project dives into network monitoring by looking at the communication betwe
 </ul>
 <img src="https://drive.google.com/file/d/1DgY921ft7KvL1TGXjcgtQiyPvN6yBY6T/preview" width="640" height="480">
 
-<h3>Make The Second Virtual Machine: Linix Ubuntu</h3>
+<h3>Make The Second Virtual Machine: Linux Ubuntu</h3>
 <img src="">
 
 
