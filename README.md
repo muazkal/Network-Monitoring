@@ -35,6 +35,14 @@ This project dives into network monitoring by looking at the communication betwe
 <img src="Screenshot 2025-01-14 094831.png"  width="80%">
 
 <h3>Make The Second Virtual Machine: Linux Ubuntu</h3>
-<img src="">
+<img src="Screenshot 2025-01-14 094855.png"  width="80%">
 
+<h3>Connect to the Windows virtual machine using its public IP address with Remote Desktop</h3>
+<img src="Screenshot 2025-01-14 094155.png"  width="80%">
 
+<h3>Download Wireshark</h3>
+<p>This application will be used to monitor network traffic. When downloading, there is no need to alter the settings. You can simply click "next" until the application is installed.</p>
+<img src="2025-01-14 175955.png"  width="80%">
+
+<h3>Open Wireshark and double-click on "Ethernet"</h3>
+<img src="2025-01-14 180821.png"  width="80%">
