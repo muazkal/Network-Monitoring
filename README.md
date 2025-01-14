@@ -63,7 +63,7 @@ This project dives into network monitoring by looking at the communication betwe
 <img src="Screenshot 2025-01-14 101924.png"  width="80%">
 
 <h3>Monitor SSH traffic</h3>
-<p>Filter to oinly show ssh traffic and SSH into the remote machine by entering "ssh **the.private.IpAddress.OfTheLinuxVM** </p>
+<p>Filter to oinly show ssh traffic and SSH into the remote machine by entering "ssh (the.private.IpAddress.OfTheLinuxVM) </p>
 <p>You can exit the Linux VM by simply entering "exit"</p>
 <img src="2025-01-14 182545.png"  width="80%">
 <img src="2025-01-14 183114.png"  width="80%">
