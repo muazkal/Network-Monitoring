@@ -4,12 +4,12 @@
 - This project focuses on network monitoring by analyzing communication between two virtual machines in Azure. Using Wireshark, various network protocols are filtered and examined to understand specific interactions. 
 
 <h2>⚙️ Environments and Utilities Used</h2> 
-- <b>Microsoft Azure</b> 
-- <b>Virtual Machines</b> 
-- <b>Remote Desktop Connection</b> 
-- <b>Wireshark</b> 
-- <b>Various Network Protocols (ICMP, SSH, DHCP, DNS)</b> 
-- <b>Command-Line Tools (Windows PowerShell)</b> 
+  - <b>Microsoft Azure</b> 
+  - <b>Virtual Machines</b> 
+  - <b>Remote Desktop Connection</b> 
+  - <b>Wireshark</b> 
+  - <b>Various Network Protocols (ICMP, SSH, DHCP, DNS)</b> 
+  - <b>Command-Line Tools (Windows PowerShell)</b> 
 
 <h2>🖥️ Operating Systems Used</h2> 
 - <b>Windows 10</b> 
